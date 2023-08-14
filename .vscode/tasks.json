@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "d:\\project\\my project\\Virual Mouse",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server",
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			}
+		}
+	]
+}
